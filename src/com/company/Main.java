@@ -15,6 +15,7 @@ public class Main {
         double result3 = a+b/x-y;
         double result4 = x-e/2%e+1;
 
+        
         System.out.println("Результат №1: "+result1+ "\n" +"Результат №2: "+result2+ "\n" +"Результат №3: "+result3+ "\n" +"Результат №4: "+result4+"\n");
 
     }
